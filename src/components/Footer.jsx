@@ -78,8 +78,8 @@ function Footer() {
                                 <a href="#!" className="text-gray-600">Saturday – Sunday Closed</a>
                             </p>
                         </div>
-                        <div className="flex-lg-column-reverse text-center">
-                            <h6 className="uppercase font-semibold mb-4 flex justify-center md:justify-start">
+                        <div className="grid-cols-7 text-center">
+                            <h6 className="uppercase font-semibold mb-4 flex justify-center md:justify-start grid-cols-3">
                                 Contact
                             </h6>
                             <img
