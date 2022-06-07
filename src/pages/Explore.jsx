@@ -13,6 +13,12 @@ import PhotoFeatures from "../components/Phofeature"
 import Photo1 from "../assets/house-1.jpg"
 import Contact from "../components/Contact";
 import {Link} from "react-router-dom";
+import QuickViews from "../components/QuickViews"
+import QuickViewA from "../components/QuickViewA"
+import QuickViewB from "../components/QuickViewB"
+import QuickViewC from "../components/QuickViewC"
+import QuickViewD from "../components/QuickViewD"
+import QuickViewE from "../components/QuickViewE"
 
 const slideImages = [
     {
@@ -32,6 +38,10 @@ const slideImages = [
         caption: <h2 className="be-prepare"></h2>
     },
 ];
+
+function QuickView2() {
+    return null;
+}
 
 const Slideshow = () => {
     return (
@@ -75,6 +85,13 @@ const Slideshow = () => {
 
             {/*<Examples/>*/}
             <QuickView/>
+            <QuickViews/>
+            <QuickViewA/>
+            <QuickViewB/>
+            <QuickViewC/>
+            <QuickViewD/>
+            <QuickViewE/>
+            {/*<QuickView2/>*/}
             <Content/>
             <Contact/>
             {/*<Contact/>*/}
