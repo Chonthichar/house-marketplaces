@@ -14,13 +14,16 @@ export default function Example() {
             <div className="pt-16 pb-80 sm:pt-24 sm:pb-40 lg:pt-40 lg:pb-48">
                 <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 sm:static">
                     <div className="sm:max-w-lg">
-                        <h1 className="text-4xl font font-extrabold tracking-tight text-gray-900 sm:text-6xl">
-                            About Our Villa
+                        <h1 className="text-3xl font font-extrabold tracking-tight text-gray-900 sm:text-6xl">
+                            About Our Services
                         </h1>
                         <p className="mt-4 text-xl text-gray-500">
-                            There are many variations of passages of psum available, but the majority have suffered
-                            alteration in some form, by injected humour, or randomised words which don’t look even
-                            slightly believable.
+                            บริการ ขาย เช่า!! บ้าน ที่ดิน คอนโด ในหัวหิน ชะอำ สนใจเข้าชมหรือข้อมูลเพิ่มเติม ติดต่อ
+                            +66 (0)63-869 7817 <br/>
+                            We inspire and helps our customers on finding their Dream place. Our services includes Sell &
+                            Rent for Houses, Land and Condominium, Hua Hin and Cha-Am areas.
+                            <br />More Information.
+                             +66 (0)63-869 7817 THAI/ENGLISH
                         </p>
                     </div>
                     <div>

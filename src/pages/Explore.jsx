@@ -12,83 +12,73 @@ import PhotoFeatures from "../components/Phofeature"
 // import Photo1 from "../assets/advertise.jpg"
 import Photo1 from "../assets/house-1.jpg"
 import Contact from "../components/Contact";
+import {Link} from "react-router-dom";
 
 const slideImages = [
     {
-        url: 'https://scontent.fosl4-2.fna.fbcdn.net/v/t39.30808-6/285861541_5466311896766323_2503748729812327999_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=oBl3lT8gvrkAX9eALYi&_nc_ht=scontent.fosl4-2.fna&oh=00_AT8ymoPTOb-Sey-u5tIFO4Op2q426mo7kg9sTDxd0hT6mA&oe=62A1AEC6',
-        caption: <p className=''>
-            HuaHin DreamHome <br/> PoolVilla
-        </p>
+        url: 'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286313110_5466311866766326_3813590309502438832_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=ML1y6Ns1x5IAX80K67G&tn=IcFkUDcwWIuuHVHs&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT91MCAZOh-FnT-nhYbS_X4T7hiXDU1PCNTh1SwjNrVohw&oe=62A320C6',
+        caption: <h1 className=''>HuaHin DreamHome PoolVilla
+            <br/> +66 (0) 63-869-7817
+            </h1>
 
     },
     {
-        url: 'https://scontent.fosl4-2.fna.fbcdn.net/v/t39.30808-6/286199545_5466311976766315_6313532079394731312_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=IsxZExvfPxAAX_12bmC&_nc_ht=scontent.fosl4-2.fna&oh=00_AT-hKRVvODRDU2p01BbrP1CS_UscbCDHhCGnWRur1mhuNg&oe=62A09F52',
-        // caption: <p className="">Eat healthy, Stay Healthy.</p>,
-
+        url: 'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286306296_5466311770099669_4302134959182240249_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=p64OwydWRMUAX8Arcmc&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT_DdL6rg0e8aaVzKakc-Kd-A7P6JpMGVHa0sADhamCHIg&oe=62A33ABB',
+        caption: <p className="">Sell & Rent
+        <br/>Land - House - Condo</p>
     },
     {
-        url: 'https://scontent.fosl4-2.fna.fbcdn.net/v/t39.30808-6/286302279_5466312050099641_626295631910343258_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=6V29-YUQB10AX_NmhF9&_nc_ht=scontent.fosl4-2.fna&oh=00_AT-ZOTnXbmgDjO_D5xvIBXJPbX6HP77qtoxmtRpa917aSg&oe=62A0D311',
-        caption: <h2 className="be-prepare">"Sell - Rent
-            <br/> Houses - Condos - Land</h2>
+        url: 'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286295249_5466311760099670_8435803177546229097_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=AkuI9s01-2gAX_uceC8&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT9nfjys1OkpKzneaPUpsbnNkTKWbTSt34W_wp1FDhgrJQ&oe=62A4B069',
+        caption: <h2 className="be-prepare"></h2>
     },
-    // {
-    //     url: 'https://scontent.fosl4-2.fna.fbcdn.net/v/t39.30808-6/286302279_5466312050099641_626295631910343258_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=6V29-YUQB10AX_NmhF9&_nc_ht=scontent.fosl4-2.fna&oh=00_AT-ZOTnXbmgDjO_D5xvIBXJPbX6HP77qtoxmtRpa917aSg&oe=62A0D311',
-    // },
 ];
-
-function Features() {
-    return null;
-}
 
 const Slideshow = () => {
     return (
         <>
-            <html className="scroll-smooth">
-
-            <div className="slide-container text-center justify-center ">
+            <div className="slide-container">
                 <Slide>
                     {slideImages.map((slideImage, index) => (
-                        <div className="each-slide mix-blend-overlay bg-neutral-600" key={index}>
-                            <div className=' mix-blend-overlay bg-neutral-600' style={{
-                                backgroundImage: `url(${slideImage.url})`,
-                                backgroundColor: 'rgba(255, 100, 100, 0.85)',
-                                // position: 'absolute',
-                                height: "600px",
-                                backgroundSize: 'cover',
-                                backgroundPosition: 'center',
-                                // opacity: '20px'
-                            }}>
+                        <div className="mt-0 top-0" key={index}>
+                            <div className=' bg-cover bg-no-repeat bg-center mix-blend-overlay bg-neutral-600'
+                                 style={{
+                                     'backgroundImage': `url(${slideImage.url}), linear-gradient(to right, rgba(50, 70, 80, 0.7), rgba(30, 20, 150, 0.7)) `,
+                                     height: '500px',
+                                     backgroundSize: 'cover',
+                                     backgroundPosition: 'center',
+                                     // opacity: 'linear-gradient(to right, rgba(50, 70, 80, 0.7), rgba(30, 20, 150, 0.7)'
+                                     // color: 'dimgray',
+                                 }}>
 
-                                <div className=" absolute w-full text-center text-white pt-12 pb-0">
-                                    <p> Awesome Location - Great Price</p>
+                                  <div
+                                    className='text-white pt-40 text-center text-2xl bg-stone-800 h-100 z-40 font-bold '
+                                    style={{
+                                        opacity: '0.7',
+                                        marginTop: 'auto',
+                                        marginBottom: 'auto'
+                                    }}>{slideImage.caption}
+                                  <Link to={Contact} className='bg-yellow-600  text-xs text-center mt-2
+                             text-white mr-auto ml-auto w-1/5 pb-2 pt-2
+                            ' style={{opacity: 'none'}}> Contact</Link>
                                 </div>
-
-                                <div
-                                    className=' absolute w-full pt-20 pb-0  text-white text-2xl text-center font-bold'>
-                                    {slideImage.caption}</div>
-
-
-
-                                <button type="button"
-                                        className=" button text-white bg-gradient-to-r
-                                        from-yellow-600 via-yellow-600 to-yellow-700 hover:bg-gradient-to-br
-                                        focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800
-                                        shadow-lg shadow-blue-500/50 dark:shadow-lg dark:shadow-blue-800/80 font-medium
-                                        rounded-lg text-sm mt-40 px-5 py-2.5 text-center mr-2 mb-2 ">Contact
-                                </button>
-
                             </div>
+
                         </div>
+
                     ))}
                 </Slide>
             </div>
-            <PhotoFeatures/>
+
+
+            {/*<PhotoFeatures/>*/}
             <Example/>
-            <Content/>
-            <Examples/>
+
+            {/*<Examples/>*/}
             <QuickView/>
+            <Content/>
+            <Contact/>
             {/*<Contact/>*/}
-            </html>
+
         </>
 
     )
