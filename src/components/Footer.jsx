@@ -45,7 +45,7 @@ function Footer() {
                         </div>
 
                         <div className="grid-cols-7 text-center">
-                            <h6 className="uppercase font-semibold mb-4  justify-center md:justify-start grid-cols-3">
+                            <h6 className="uppercase font-semibold mb-1 mt-2  justify-center md:justify-start grid-cols-3">
                                 Contact Our team for more info
                             </h6>
                             {/*<img*/}
@@ -98,8 +98,8 @@ function Footer() {
                             </p>
                         </div>
                         <div className="">
-                            <h6 className="uppercase font-semibold mb-2  text-center mr-auto ml-auto">
-                                Contact
+                            <h6 className="uppercase font-semibold mb-1 mt-2  text-center mr-auto ml-auto">
+                                Agency Contact
                             </h6>
 
                             <img

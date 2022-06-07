@@ -48,7 +48,7 @@ const product = {
         // { name: '3XL', inStock: true },
     ],
     description:
-    
+
         '🌟พื้นที่ใช้สอย 462 ตร.ม.' +
         '🌟ตกแต่งเฟอร์นิเจอร์บิวอินเกรดพรีเมี่ยม' +
         '🌟บ้านระบบ smart Lock' +
