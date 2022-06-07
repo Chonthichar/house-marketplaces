@@ -289,7 +289,7 @@ export default function Example() {
                                 {/*          ))}*/}
                                 {/*      </div>*/}
                                 {/*  </RadioGroup>*/}
-                                <p >Contact: <br/>
+                                <p >
                                     📠 Tel 063 869 7817 <br/>
                                    📱 063 869 7817 <br/>
                                     💻 Email propertyhuahin711@gmil.com
