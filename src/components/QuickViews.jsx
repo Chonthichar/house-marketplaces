@@ -4,6 +4,7 @@ import {RadioGroup} from '@headlessui/react'
 
 import {FaLine} from 'react-icons/fa'
 import {FaMailchimp} from "react-icons/fa";
+import {Link} from "react-router-dom";
 
 const product = {
     // name: 'Pool Villa For Sale',
@@ -305,13 +306,14 @@ export default function Example() {
                                     💻 Email propertyhuahin711@gmil.com
                                 </p>
                             </div>
-
+                            <Link to='/contact'>
                             <button
                                 type="submit"
                                 className="mt-10 w-full bg-indigo-600 border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
                             >
                                 Contact
                             </button>
+                            </Link>
                         </form>
                     </div>
 
@@ -326,7 +328,7 @@ export default function Example() {
                             </div>
                         </div>
 
-                        <div className="mt-4 border-2">
+                        <div className="mt-4 border-2 mb-0">
                             <h3 className="text-sm font-medium text-gray-900">Highlights</h3>
 
                             <div className="mt-4">

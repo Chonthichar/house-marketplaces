@@ -40,7 +40,7 @@ function Contact() {
                 {/*</div>*/}
 
 
-                <button className="btn btn-info btn-block bg-yellow-600 hover:bg-yellow-500 mt-4" type="submit">Send Message
+                <button className="btn btn-info btn-block bg-yellow-600 hover:bg-yellow-500 mt-4 text-white" type="submit">Send Message
                 </button>
 
             </form>

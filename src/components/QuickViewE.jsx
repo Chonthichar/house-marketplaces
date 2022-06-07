@@ -4,6 +4,7 @@ import {RadioGroup} from '@headlessui/react'
 
 import {FaLine} from 'react-icons/fa'
 import {FaMailchimp} from "react-icons/fa";
+import {Link} from "react-router-dom";
 
 const product = {
     // name: 'Pool Villa For Sale',
@@ -47,12 +48,7 @@ const product = {
         // { name: '3XL', inStock: true },
     ],
     description:
-        'Brand new Luxury Villa For Sale ' +
-        'Hua Hin - Cha am⚡️⚡️' +
-        'Selling Price Start 14.8 - 15.4 MB.⛱️🔥' +
-        'The Villa is situated in PalmHIills' +
-        'Golf Club & Residence👈' +
-        'Prime Location / only 5 minutes to beach and Airport 🌟ขนาดที่ดิน 147-182 ตร.วา' +
+    
         '🌟พื้นที่ใช้สอย 462 ตร.ม.' +
         '🌟ตกแต่งเฟอร์นิเจอร์บิวอินเกรดพรีเมี่ยม' +
         '🌟บ้านระบบ smart Lock' +
@@ -69,7 +65,7 @@ const product = {
         '🌟ท่ามกลางวิวบรรยากาศติดสนามกอล์ฟ วิวภูเขา' +
         '🌟เพียง 5 นาที ไปชายหาดหัวหิน' +
         '🌟ใกล้สนามบินหัวหิน' +
-        '🚘การเดินทาง🚘' +
+        '🚘การเดินทาง' +
         'ถนนเพชรเกษมขาเข้าหัวหิน เลี้ยวเข้าสนามกอล์ฟ PalmHills' +
         'อยู่ในสนามกอล์ฟปาล์มฮิลล์ หัวหิน' +
         'ใกล้สนามบินหัวหิน' +
@@ -319,13 +315,14 @@ export default function Example() {
                                     💻 Email propertyhuahin711@gmil.com
                                 </p>
                             </div>
-
+                            <Link to='/contact'>
                             <button
                                 type="submit"
                                 className="mt-10 w-full bg-indigo-600 border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
                             >
                                 Contact
                             </button>
+                            </Link>
                         </form>
                     </div>
 
