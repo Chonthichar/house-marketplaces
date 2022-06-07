@@ -35,7 +35,9 @@ const slideImages = [
     },
     {
         url: 'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286295249_5466311760099670_8435803177546229097_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=AkuI9s01-2gAX_uceC8&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT9nfjys1OkpKzneaPUpsbnNkTKWbTSt34W_wp1FDhgrJQ&oe=62A4B069',
-        caption: <h2 className="be-prepare"></h2>
+        caption:<h1 className=''>HuaHin DreamHome PoolVilla
+            <br/> +66 (0) 63-869-7817
+            </h1>
     },
 ];
 
@@ -67,8 +69,8 @@ const Slideshow = () => {
                                         marginTop: 'auto',
                                         marginBottom: 'auto'
                                     }}>{slideImage.caption}
-                                  <Link to={Contact} className='bg-yellow-600  text-xs text-center mt-2
-                             text-white mr-auto ml-auto w-1/5 pb-2 pt-2
+                                  <Link to={    Contact} className='bg-yellow-600  text-xs text-center mt-2
+                             text-white mr-auto ml-auto w-full pb-2 pt-2 pr-4 pl-4 opacity-200
                             ' style={{opacity: 'none'}}> Contact</Link>
                                 </div>
                             </div>
