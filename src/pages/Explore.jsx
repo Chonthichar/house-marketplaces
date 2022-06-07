@@ -70,7 +70,7 @@ const Slideshow = () => {
                                         marginBottom: 'auto'
                                     }}>{slideImage.caption}
                                   <Link to={    Contact} className='bg-yellow-600  text-xs text-center mt-2
-                             text-white mr-auto ml-auto w-full pb-2 pt-2 pr-4 pl-4 opacity-200
+                             text-white mr-auto ml-auto w-full pb-2 pt-2 pr-4 pl-4 opacity-2001
                             ' style={{opacity: 'none'}}> Contact</Link>
                                 </div>
                             </div>
@@ -95,7 +95,7 @@ const Slideshow = () => {
             <QuickViewE/>
             {/*<QuickView2/>*/}
             <Content/>
-            <Contact/>
+
             {/*<Contact/>*/}
 
         </>

@@ -3,12 +3,16 @@ import {Fragment} from 'react'
 import {Disclosure, Menu, Transition} from '@headlessui/react'
 import {BellIcon, MenuIcon, XIcon} from '@heroicons/react/outline'
 import Pho from "../assets/brow.jpg"
+import Contact from "./Contact";
+// import Features} from "@headlessui/react/dist/utils/render";
+import Features from "../components/Features"
+
 
 const navigation = [
-    {name: 'Home', href: '#', current: true},
-    {name: 'About', href: '#', current: false},
-    {name: 'Listing', href: '#', current: false},
-    {name: 'Contact', href: '#', current: false},
+    {name: 'Home', href: '/', current: true},
+    // {name: 'About', href: '/', current: false},
+    // {name: 'Listing', href: '#', current: false},
+    {name: 'Contact', href: '/contact', current: false},
 ]
 
 function classNames(...classes) {
