@@ -291,7 +291,7 @@ export default function Example() {
                                 {/*  </RadioGroup>*/}
                                 <p >Contact: <br/>
                                     📠 Tel 063 869 7817 <br/>
-                                   <FaLine/>  063 869 7817 <br/>
+                                   📱 063 869 7817 <br/>
                                     💻 Email propertyhuahin711@gmil.com
                                 </p>
                             </div>
