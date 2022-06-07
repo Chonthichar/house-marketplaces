@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80dd47a7-f648-4cfd-9f0b-5c25e7ed94cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Quickview.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Quickview.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +78,7 @@
       <workItem from="1654418615909" duration="332000" />
       <workItem from="1654578079553" duration="27684000" />
       <workItem from="1654614590443" duration="298000" />
+      <workItem from="1654616589722" duration="301000" />
     </task>
     <servers />
   </component>
