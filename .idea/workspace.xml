@@ -7,15 +7,11 @@
     <list default="true" id="80dd47a7-f648-4cfd-9f0b-5c25e7ed94cc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Contact.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/QuickViewA.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/QuickViewA.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/QuickViewB.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/QuickViewB.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/QuickViewC.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/QuickViewC.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/QuickViewD.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/QuickViewD.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/QuickViewE.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/QuickViewE.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/QuickViews.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/QuickViews.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Quickview.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Quickview.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Explore.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Explore.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +85,7 @@
       <workItem from="1654578079553" duration="27684000" />
       <workItem from="1654614590443" duration="298000" />
       <workItem from="1654616589722" duration="301000" />
-      <workItem from="1654632537939" duration="2501000" />
+      <workItem from="1654632537939" duration="3682000" />
     </task>
     <servers />
   </component>
