@@ -7,7 +7,7 @@ import {FaMailchimp} from "react-icons/fa";
 
 const product = {
     // name: 'Pool Villa For Sale',
-    price: '7,500,000 Bath',
+    price: 'For sale 7,500,000 Bath',
     // href: '#',
     breadcrumbs: [
         {id: 1, name: '🔥Luxury villa Scandinavian Style Price 7.5 Million Baht🔥'},

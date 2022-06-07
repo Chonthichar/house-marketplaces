@@ -7,7 +7,7 @@ import {FaMailchimp} from "react-icons/fa";
 
 const product = {
     // name: 'Pool Villa For Sale',
-    price: '5,200,000 Bath',
+    price: 'For sale 5,200,000 Bath',
     // href: '#',
     breadcrumbs: [
         {id: 1, name: '🔥Luxury villa Scandinavian Style (Eden) 5.2 MB🔥'},
@@ -99,13 +99,13 @@ export default function Example() {
 
     return (
         <div className="bg-white">
-            <div className="pt-6">
+            <div className="pt-0 mb-0 border-2 pb-0 b-0  ">
                 <nav aria-label="Breadcrumb">
                     <ol role="list"
-                        className="max-w-2xl mx-auto px-4 flex items-center space-x-2 sm:px-6 lg:max-w-7xl lg:px-8">
+                        className="max-w-2xl mx-auto px-4 flex items-center space-x-2 sm:px-6 lg:max-w-7xl lg:px-8 mb-0 pb-0">
                         {product.breadcrumbs.map((breadcrumb) => (
                             <li key={breadcrumb.id}>
-                                <div className="flex items-center">
+                                <div className="flex items-center  ">
                                     <a href={breadcrumb.href} className="mr-2 text-sm font-medium text-gray-900">
                                         {breadcrumb.name}
                                     </a>
@@ -326,7 +326,7 @@ export default function Example() {
                             </div>
                         </div>
 
-                        <div className="mt-10">
+                        <div className="mt-4 border-2">
                             <h3 className="text-sm font-medium text-gray-900">Highlights</h3>
 
                             <div className="mt-4">
