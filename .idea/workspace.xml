@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80dd47a7-f648-4cfd-9f0b-5c25e7ed94cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Content.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Content.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Features.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Features.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Phofeature.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Phofeature.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Quickview.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Quickview.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Explore.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Explore.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +76,7 @@
       <workItem from="1654367183229" duration="4980000" />
       <workItem from="1654411262781" duration="5570000" />
       <workItem from="1654418615909" duration="332000" />
-      <workItem from="1654578079553" duration="13046000" />
+      <workItem from="1654578079553" duration="13559000" />
     </task>
     <servers />
   </component>
