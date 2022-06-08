@@ -1,25 +1,10 @@
-import PropTypes from "prop-types";
-import React from "react";
-import {Helmet} from "react-helmet";
+import {
+     Share
+} from 'react-native';
+ let shareImage = {
+                title: caption,//string
+                message: message,//string
+                url:imageUrl,// eg.'http://img.gemejo.com/product/8c/099/cf53b3a6008136ef0882197d5f5.jpg',
 
-const MetaDecorator = ({title, description, imageUrl, imageAlt}) => {
-    return (
-        <Helmet>
-            <title>{title}</title>
-            <meta property="og:title" content={title}/>
-            <meta property="og:description"
-                  content={description}/>
-            <meta property="og:type" content="article"/>
-            <meta property="og:url" content="window.location.pathname+window.location.search"/>
-            <meta property="og:image" content={imageUrl}/>
-
-        </Helmet>
-    )
-}
-MetaDecorator.prototype ={
-    title: PropTypes.string.isRequired,
-    description: PropTypes.string.isRequired,
-    imageUrl: PropTypes.string.isRequired,
-    imageAlt:PropTypes.string.isRequired,
-}
-export default MetaDecorator
+            };
+            Share.open(shareImage).catch(err => console.log(err));
