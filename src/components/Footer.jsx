@@ -98,7 +98,7 @@ function Footer() {
                             </p>
                         </div>
                         <div className="">
-                            <h6 className="uppercase font-semibold mb-1 mt-2  text-center mr-auto ml-auto">
+                            <h6 className="uppercase font-semibold mb-1 mt-2    text-center mr-auto ml-auto">
                                 Agency Contact
                             </h6>
 
