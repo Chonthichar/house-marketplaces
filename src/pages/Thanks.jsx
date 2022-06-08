@@ -4,7 +4,7 @@ function Thanks() {
                 <h1 className='text-5xl text-center mt-10'>
                        😊 <br/>
                 </h1>
-                <h1 className='text-center mt-3 mb-3 text-xl '>
+                <h1 className='text-center mt-3 mb-3 text-xs '>
 
 
                     Thanks for your submission. We will get back to you shortly.
