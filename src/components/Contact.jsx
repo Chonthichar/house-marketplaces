@@ -5,7 +5,7 @@ function Contact() {
             <p className="h4 mb-4 bg-yellow-600 text-white p-2 w-1/1 mr-auto ml-auto text-center mt-2">Contact us</p>
 
             <form className="text-center border border-light p-5"
-                  action="https://formsubmit.co/chonthichar.soythong@gmail.com" method='POST'>
+                  action="https://formsubmit.co/propertyhuahin711@gmail.com" method='POST'>
 
 
                 <input type="text" name='name' id="defaultContactFormName" className="form-control mb-4"
