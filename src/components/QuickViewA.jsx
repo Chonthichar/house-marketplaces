@@ -11,12 +11,12 @@ const product = {
     price: 'For sale 7,500,000 Bath',
     // href: '#',
     breadcrumbs: [
-        {id: 1, name: '🔥Luxury villa Scandinavian Style Price 7.5 Million Baht🔥'},
+        {id: 1, name: '🔥Luxury villa Scandinavian Style 7.5 MB 🔥'},
         // { id: 2, name: 'Clothing', href: '#' },
     ],
     images: [
         {
-            src:'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286378501_5472110959519750_7418785529681497470_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=QemSUNCpoVIAX84LUvk&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT-D-66sqlsXdiDXQyt4zZr5Z66-4S0EMyBI7G0YlmJ3aA&oe=62A45C84',
+            src: 'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286378501_5472110959519750_7418785529681497470_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=QemSUNCpoVIAX84LUvk&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT-D-66sqlsXdiDXQyt4zZr5Z66-4S0EMyBI7G0YlmJ3aA&oe=62A45C84',
             alt: 'Two each of gray, white, and black shirts laying flat.',
         },
         {
@@ -48,27 +48,25 @@ const product = {
         // { name: '3XL', inStock: true },
     ],
     description:
-        'ขายวิลล่าพร้อมเข้าอยู่ ราคา 7.5 ลบ.' +
-        'สร้างเสร็จพร้อมเข้าอยู่' +
-        '☎ 063 869 7817 TH / ENG' +
-        'หัวหิน - ชะอำ ( ห่างทะเล 1.5 กม.) ' +
-        '- ที่ดิน 128 ตารางวา ' +
-        '- พื้นที่ใช้สอย 165 ตารางเมตร ' +
-        '- 3 ห้องนอน 3 ห้องน้ำ ' +
-        '- สระว่ายน้ำ 3.5×8.5 ม. ' +
-        '- จอดรถได้ 2 คัน ' +
-        '- ฟรีผ้าม่าน ' +
-        '- ฟรีแอร์ ' +
-        '- ฟรีเฟอร์นิเจอร์ ' +
-        '- ฟรีครัวยุโรป + เครื่องใช้ไฟฟ้า' +
+        'ขายวิลล่าสร้างเสร็จพร้อมเข้าอยู่ ราคา 7.5 ลบ.' +
+        ' ตั้งอยู่ในพื้นที่หัวหิน - ชะอำ ( ห่างทะเล 1.5 กม.) ' +
+        ' ที่ดิน 128 ตารางวา ' +
+        ' พื้นที่ใช้สอย 165 ตารางเมตร ' +
+        ' 3 ห้องนอน 3 ห้องน้ำ ' +
+        ' สระว่ายน้ำ 3.5×8.5 ม. ' +
+        ' จอดรถได้ 2 คัน ' +
+        ' ฟรีผ้าม่าน ' +
+        ' ฟรีแอร์ ' +
+        ' ฟรีเฟอร์นิเจอร์ ' +
+        ' ฟรีครัวยุโรป + เครื่องใช้ไฟฟ้า' +
         'ส่วนกลาง ' +
-        '- มีสระว่ายน้ำส่วนกลางขนาดใหญ่ ' +
-        '- พื้นที่สวนสวย ฟิตเนส ซาวน่า' +
-        '- มีรปภ. ระบบรักษาความปลอดภัย 24 ชม. ' +
-        '- โครงการห่างจากถนนเพชรเกษม 1 กม. ' +
-        '- ห่างจากทะเล 1.5 กม. ' +
-        '- ใกล้สนามกอล์ฟปาล์มฮิลล์ 800 เมตร ' +
-        '- ใกล้สนามบินหัวหิน 2 กม.',
+        ' มีสระว่ายน้ำส่วนกลางขนาดใหญ่ ' +
+        ' พื้นที่สวนสวย ฟิตเนส ซาวน่า' +
+        ' มีรปภ. ระบบรักษาความปลอดภัย 24 ชม. ' +
+        ' โครงการห่างจากถนนเพชรเกษม 1 กม. ' +
+        ' ห่างจากทะเล 1.5 กม. ' +
+        ' ใกล้สนามกอล์ฟปาล์มฮิลล์ 800 เมตร ' +
+        ' ใกล้สนามบินหัวหิน 2 กม.',
     highlights: [
         'Luxury villa Scandinavian Style',
         'Price 7.5 Million Baht',
@@ -171,7 +169,7 @@ export default function Example() {
                     </div>
 
                     {/* Options */}
-                    <div className="mt-0 lg:mt-0 lg:row-span-3" >
+                    <div className="mt-0 lg:mt-0 lg:row-span-3">
                         <h2 className="sr-only">Product information</h2>
                         <p className="text-3xl text-gray-900">{product.price}</p>
 
@@ -296,19 +294,19 @@ export default function Example() {
                                 {/*          ))}*/}
                                 {/*      </div>*/}
                                 {/*  </RadioGroup>*/}
-                                <p >
-                                    📠 Tel 063 869 7817 <br/>
-                                   📱 063 869 7817 <br/>
-                                    💻 Email propertyhuahin711@gmil.com
+                                <p>
+                                    📞 Tel: 063 869 7817 <br/>
+                                    📱 Line: 063 869 7817 <br/>
+                                    📧 Email: propertyhuahin711@gmail.com
                                 </p>
                             </div>
                             <Link to='/contact'>
-                            <button
-                                type="submit"
-                                className="mt-10 w-full bg-indigo-600 border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
-                            >
-                                Contact
-                            </button>
+                                <button
+                                    type="submit"
+                                    className="mt-10 w-full bg-indigo-600 border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+                                >
+                                    Contact
+                                </button>
                             </Link>
                         </form>
                     </div>
@@ -339,11 +337,11 @@ export default function Example() {
                         </div>
 
                         {/*<div className="mt-10">*/}
-                            {/*<h2 className="text-sm font-medium text-gray-900">Details</h2>*/}
+                        {/*<h2 className="text-sm font-medium text-gray-900">Details</h2>*/}
 
-                            {/*<div className="mt-4 space-y-6">*/}
-                            {/*    <p className="text-sm text-gray-600">{product.details}</p>*/}
-                            {/*</div>*/}
+                        {/*<div className="mt-4 space-y-6">*/}
+                        {/*    <p className="text-sm text-gray-600">{product.details}</p>*/}
+                        {/*</div>*/}
                         {/*</div>*/}
                     </div>
                 </div>

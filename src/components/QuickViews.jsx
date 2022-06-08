@@ -48,39 +48,38 @@ const product = {
         // { name: '3XL', inStock: true },
     ],
     description:
-      'ขายวิลล่าพร้อมเข้าอยู่ ราคา 5.2ลบ 🌿 ' +
+        'ขายวิลล่าพร้อมเข้าอยู่ ราคา 5.2ลบ 🌿 ' +
         'สร้างเสร็จพร้อมเข้าอยู่' +
-        '063 869 7817 TH / ENG' +
-        'หัวหิน - ชะอำ ( ห่างทะเล 1.5 กม.)' +
-        'ที่ดิน 75.5 ตารางวา' +
-        'พื้นที่ใช้สอย 137 ตารางเมตร' +
-        '3 ห้องนอน 2 ห้องน้ำ' +
-        'สระว่ายน้ำ 3×7 ม.' +
-        'จอดรถได้ 2 คัน' +
-        'ฟรีผ้าม่าน' +
-        'ฟรีแอร์' +
-        'ฟรีเฟอร์นิเจอร์' +
-        'ฟรีครัวยุโรป + เครื่องใช้ไฟฟ้า' +
-        'ส่วนกลาง' +
+        'อยู่ในพื้นที่หัวหิน - ชะอำ ( ห่างจากทะเล 1.5 กม.)' +
+        ' ขนาดที่ดิน 75.5 ตารางวา' +
+        ' พื้นที่ใช้สอย 137 ตารางเมตร' +
+        ' 3 ห้องนอน 2 ห้องน้ำ' +
+        ' สระว่ายน้ำ 3×7 ม.' +
+        ' จอดรถได้ 2 คัน' +
+        ' ฟรีผ้าม่าน' +
+        ' ฟรีแอร์' +
+        ' ฟรีเฟอร์นิเจอร์' +
+        ' ฟรีครัวยุโรป + เครื่องใช้ไฟฟ้า' +
+        ' บริเวณส่วนกลาง' +
         'มีสระว่ายน้ำส่วนกลางขนาดใหญ่' +
-        'พื้นที่สวนสวย ฟิตเนส ซาวน่า' +
-        'มีรปภ. ระบบรักษาความปลอดภัย 24 ชม.' +
+        ' พื้นที่สวนสวย ฟิตเนส ซาวน่า' +
+        ' มีรปภ. ระบบรักษาความปลอดภัย 24 ชม.' +
         'โครงการห่างจากถนนเพชรเกษม 1 กม.' +
         'ห่างจากทะเล 1.5 กม.' +
         'ใกล้สนามกอล์ฟปาล์มฮิลล์ 800 เมตร' +
         'ใกล้สนามบินหัวหิน 2 กม.',
     highlights: [
-        'usable space 137 SQM',
+        'Usable space 137 SQM',
         'Land Plot 75.5 SQW. (302 SQM.)',
         '3 bedrooms  2 bathrooms ',
-        'swimming pool 3×7 M. (privacy design)',
-        'carport 2 cars',
+        'Swimming pool 3×7 M. (privacy design)',
+        'Carport 2 cars',
         'Communal Pool / Fitness / Sauna',
         'Only 1.5 Km. to Beach',
         'Only 1 Km. to Petkasem Main Rd.n',
         'only 2 Km. to HuaHin Airport',
         'Communal Area ',
-        'Swimingpool',
+        'Swimming',
         'Fitness',
         'Sauna',
         '24 hrs. Security guard',
@@ -100,7 +99,7 @@ export default function Example() {
 
     return (
         <div className="bg-white">
-            <div className="pt-0 mb-0 border-2 pb-0 b-0  ">
+            <div className="pt-0 mb-0 pb-0 b-0  ">
                 <nav aria-label="Breadcrumb">
                     <ol role="list"
                         className="max-w-2xl mx-auto px-4 flex items-center space-x-2 sm:px-6 lg:max-w-7xl lg:px-8 mb-0 pb-0">
@@ -300,19 +299,19 @@ export default function Example() {
                                 {/*          ))}*/}
                                 {/*      </div>*/}
                                 {/*  </RadioGroup>*/}
-                                <p >
-                                    📠 Tel 063 869 7817 <br/>
-                                   📱 063 869 7817 <br/>
-                                    💻 Email propertyhuahin711@gmil.com
+                                <p>
+                                    📞 Tel: 063 869 7817 <br/>
+                                    📱 Line: 063 869 7817 <br/>
+                                    📧 Email: propertyhuahin711@gmail.com
                                 </p>
                             </div>
                             <Link to='/contact'>
-                            <button
-                                type="submit"
-                                className="mt-10 w-full bg-indigo-600 border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
-                            >
-                                Contact
-                            </button>
+                                <button
+                                    type="submit"
+                                    className="mt-10 w-full bg-indigo-600 border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+                                >
+                                    Contact
+                                </button>
                             </Link>
                         </form>
                     </div>
@@ -328,7 +327,7 @@ export default function Example() {
                             </div>
                         </div>
 
-                        <div className="mt-4 border-2 mb-0">
+                        <div className="mt-4 mb-0">
                             <h3 className="text-sm font-medium text-gray-900">Highlights</h3>
 
                             <div className="mt-4">
@@ -343,11 +342,11 @@ export default function Example() {
                         </div>
 
                         {/*<div className="mt-10">*/}
-                            {/*<h2 className="text-sm font-medium text-gray-900">Details</h2>*/}
+                        {/*<h2 className="text-sm font-medium text-gray-900">Details</h2>*/}
 
-                            {/*<div className="mt-4 space-y-6">*/}
-                            {/*    <p className="text-sm text-gray-600">{product.details}</p>*/}
-                            {/*</div>*/}
+                        {/*<div className="mt-4 space-y-6">*/}
+                        {/*    <p className="text-sm text-gray-600">{product.details}</p>*/}
+                        {/*</div>*/}
                         {/*</div>*/}
                     </div>
                 </div>

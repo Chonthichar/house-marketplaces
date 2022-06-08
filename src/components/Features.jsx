@@ -5,14 +5,14 @@ const features = [
     {
         name: 'Sell & Rent',
         description:
-            'Our services includes Sell and Rent for Houses, Land and Condominium ',
+            'Our services includes Sell and Rent for Houses, Land and Condominium.',
         icon: GlobeAltIcon,
     },
     {
-        name: 'Transfers of property and legal process',
+        name: 'Property transferring and legal process',
         description:
-            'We can help you through the transfer of property process that takes place after an agreement to sell or buy. ' +
-            'With us you are ensured to get the best deal available on your dream home expectation',
+            'We can help you through the transfer of property process that takes place after an agreement of selling or buying. ' +
+            'With us you are ensured to get the best deal available base on your dream home.',
         icon: ScaleIcon,
     },
     {
@@ -24,7 +24,9 @@ const features = [
     {
         name: 'Experiences',
         description:
-            'We are team of highly experienced residential experts can guide you through the buying and renting process, where multiple tasks that need to be completed before moving to the next one',
+            'We are team of highly experienced residential experts can guide you ' +
+            'through the buying and renting process, where multiple tasks that need to be completed before moving to the next one. ' +
+            'Make sure that your process are going smoothly by choosing our services.',
         icon: AnnotationIcon,
     },
 ]
@@ -39,7 +41,7 @@ export default function Example() {
                         We provide the best services for you.
                     </p>
                     <p className="mt-4 max-w-2xl text-2xs text-gray-500 lg:mx-auto ">
-                        บริการ ขาย เช่า!! บ้าน ที่ดิน คอนโด ในหัวหิน ชะอำ สนใจเข้าชมหรือข้อมูลเพิ่มเติม ติดต่อ
+                        บริการ ขาย เช่า!! บ้าน ที่ดิน คอนโด ในหัวหิน ชะอำ <br/> สนใจเข้าชมหรือข้อมูลเพิ่มเติม <br/> ติดต่อ
                         +66 (0)63-869 7817 <br/>
                         We inspire and helps our customers on finding their Dream place.
                         <br/>More Information.

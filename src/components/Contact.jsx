@@ -11,13 +11,15 @@ function Contact() {
                 <input type="text" name='name' id="defaultContactFormName" className="form-control mb-4"
                        placeholder="Name"/>
 
-                    <input type="hidden" name="_next" value="https://www.makeweb.com/thank" />
+                    <input type="hidden" name="_next" value="https://house-marketplaces.vercel.app/thank" />
 
                 <input type="email" name='email' id="defaultContactFormEmail" className="form-control mb-4"
                        placeholder="E-mail"/>
 
                 <input type="hidden" name="_subject" value="New submission on website House Market For Sale!"
                        placeholder='subject'/>
+
+                <input type="hidden" name="_captcha" value="false"/>
 
 
                  <input type="hidden" name="_autoresponse"

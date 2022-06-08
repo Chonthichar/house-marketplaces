@@ -26,16 +26,16 @@ function Footer() {
                     <div className="grid grid-1 md:grid-cols-2 lg:grid-cols-4 gap-1 ">
 
                         <div className="">
-                             <h6 className="uppercase font-bold mb-1 mt-2">
+                            <h6 className="uppercase font-bold mb-1 mt-3">
                                 HuaHin DreamHome PoolVilla
                             </h6>
                             <p className='text-xs'> ขาย เช่า!! บ้าน ที่ดิน คอนโด ในหัวหิน ชะอำ
                                 สนใจเข้าชมหรือข้อมูลเพิ่มเติม
-                                <br/>ติดต่อ 063-869 7817 TH/EN</p>
+                                <br/>ติดต่อ +66 (0) 63-869 7817 TH-EN</p>
                         </div>
                         <div className="">
-                            <h6 className="uppercase font-bold mb-1 mt-2">
-                               Services
+                            <h6 className="uppercase font-bold mb-1 mt-3">
+                                Services
                             </h6>
                             <p className='text-xs'>
                                 Sell & Rent
@@ -45,8 +45,8 @@ function Footer() {
                         </div>
 
                         <div className="grid-cols-7 text-center">
-                            <h6 className="uppercase font-semibold mb-1 mt-2  justify-center md:justify-start grid-cols-3">
-                                Contact Our team for more info
+                            <h6 className="uppercase font-semibold mb-1 mt-3  justify-center md:justify-start grid-cols-3">
+                                Contact for more info
                             </h6>
                             {/*<img*/}
                             {/*    className="h-20 w-auto rounded-full"*/}
@@ -63,19 +63,17 @@ function Footer() {
                                           d="M493.4 24.6l-104-24c-11.3-2.6-22.9 3.3-27.5 13.9l-48 112c-4.2 9.8-1.4 21.3 6.9 28l60.6 49.6c-36 76.7-98.9 140.5-177.2 177.2l-49.6-60.6c-6.8-8.3-18.2-11.1-28-6.9l-112 48C3.9 366.5-2 378.1.6 389.4l24 104C27.1 504.2 36.7 512 48 512c256.1 0 464-207.5 464-464 0-11.2-7.7-20.9-18.6-23.4z">
                                     </path>
                                 </svg>
-                                Tel : 063 869 7817 (Th/Eng)
+                                Tel : +66 (0) 63 869 7817 (Th-Eng)
                             </p>
-                            <p className="flex items-center justify-center md:justify-start ml-2 text-xs">
-                                <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="print"
-                                     className="w-4 mr-4" role="img" xmlns="http://www.w3.org/2000/svg"
-                                     viewBox="0 0 512 512">
-                                    <path fill="currentColor"
-                                          d="M448 192V77.25c0-8.49-3.37-16.62-9.37-22.63L393.37 9.37c-6-6-14.14-9.37-22.63-9.37H96C78.33 0 64 14.33 64 32v160c-35.35 0-64 28.65-64 64v112c0 8.84 7.16 16 16 16h48v96c0 17.67 14.33 32 32 32h320c17.67 0 32-14.33 32-32v-96h48c8.84 0 16-7.16 16-16V256c0-35.35-28.65-64-64-64zm-64 256H128v-96h256v96zm0-224H128V64h192v48c0 8.84 7.16 16 16 16h48v96zm48 72c-13.25 0-24-10.75-24-24 0-13.26 10.75-24 24-24s24 10.74 24 24c0 13.25-10.75 24-24 24z">
-                                    </path>
+                            <p className="flex items-center justify-center md:justify-start ml-2 text-xs mb-2">
+                                <svg xmlns="http://www.w3.org/2000/svg" className="w-4 mr-4" fill="none" viewBox="0 0 24 24"
+                                     stroke="currentColor" strokeWidth="2">
+                                    <path strokeLinecap="round" strokeLinejoin="round"
+                                          d="M17 8h2a2 2 0 012 2v6a2 2 0 01-2 2h-2v4l-4-4H9a1.994 1.994 0 01-1.414-.586m0 0L11 14h4a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2v4l.586-.586z"/>
                                 </svg>
-                                Line : 0638697817
+                                 Line : 0638697817
                             </p>
-                             <p className="flex items-center justify-center md:justify-start mb-2 ml-2 text-xs">
+                            <p className="flex items-center justify-center md:justify-start mb-2 ml-2 text-xs">
                                 <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="envelope"
                                      className="w-4 mr-4" role="img" xmlns="http://www.w3.org/2000/svg"
                                      viewBox="0 0 512 512">
@@ -86,7 +84,7 @@ function Footer() {
                                 propertyhuahin711@gmail.com
                             </p>
 
-                                <p className="flex items-center justify-center md:justify-start mb-2 ml-2 text-xs">
+                            <p className="flex items-center justify-center md:justify-start mb-2 ml-2 text-xs">
                                 <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="home"
                                      className="w-4 mr-4" role="img" xmlns="http://www.w3.org/2000/svg"
                                      viewBox="0 0 576 512">
@@ -98,7 +96,7 @@ function Footer() {
                             </p>
                         </div>
                         <div className="">
-                            <h6 className="uppercase font-semibold mb-1 mt-2    text-center mr-auto ml-auto">
+                            <h6 className="uppercase font-semibold mb-1 mt-3  text-center mr-auto ml-auto">
                                 Agency Contact
                             </h6>
 
@@ -134,7 +132,7 @@ function Footer() {
                     </div>
 
                     <div className='text-center p-2 text-xs' style={{backgroundColor: 'rgba(0, 0, 0, 0.2)'}}>
-                        © 2020 Copyright :
+                        © 2022 Copyright :
                         <a className='text-white text-xs' href='https://www.facebook.com/dreamhomevilla'>
                             : HuaHin DreamHome PoolVilla <br/>
                         </a>

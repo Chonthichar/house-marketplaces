@@ -18,7 +18,8 @@ export default function Example() {
                             About Our Services
                         </h1>
                         <p className="mt-4 text-xl text-gray-500">
-                            บริการ ขาย เช่า!! บ้าน ที่ดิน คอนโด ในหัวหิน ชะอำ สนใจเข้าชมหรือข้อมูลเพิ่มเติม ติดต่อ
+                            บริการ ขายและเช่า!!
+                            บ้าน ที่ดิน คอนโด ในหัวหิน ชะอำ สนใจเข้าชมหรือข้อมูลเพิ่มเติม ติดต่อ <br/>
                             +66 (0)63-869 7817 <br/>
                             We inspire and helps our customers on finding their Dream place. Our services includes Sell &
                             Rent for Houses, Land and Condominium, Hua Hin and Cha-Am areas.

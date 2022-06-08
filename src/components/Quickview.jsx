@@ -48,25 +48,23 @@ const product = {
         // { name: '3XL', inStock: true },
     ],
     description:
-        'ขายวิลล่า 4.3 ลบ.(รวมเฟอร์พร้อมเข้าอยู่) หัวหินซอย 70 ' +
+        'ขายวิลล่า 4.3 ลบ.(รวมเฟอร์นิเจอร์พร้อมเข้าอยู่) อยู่ในพื้นที่หัวหินซอย 70 ' +
         ' ฟรีค่าใช้จ่ายวันโอนกรรมสิทธิ์ ' +
         ' 3 ห้องนอน / 3 ห้องน้ำ ' +
-        ' แปลง 89 ตร.วา ' +
+        ' ขนาดแปลง 89 ตร.วา ' +
         ' พื้นที่ใช้สอย 248 ตรม. ' +
-        ' สระว่ายน้ำ 3 x 8 ม. ' +
+        ' พร้อมสระว่ายน้ำขนาด 3 x 8 ม. ' +
         ' ที่จอดรถ 2 คัน ' +
         ' ฟรีแอร์ทุกห้อง ' +
         ' ฟรีเฟอร์นิเจอร์ทุกห้อง ' +
         ' ฟรีเคาน์เตอร์ครัว ' +
         ' ฟรีปั๊มน้ำ แท็งค์น้ำ ก๊อกผสมน้ำร้อน-เย็น ' +
         ' พร้อมวิวภูเขารอบโครงการ 🌿 ' +
-        ' ไปชายหาดและตลาดหัวหิน เพียง 15 นาที',
+        ' เดินทางไปชายหาดและตลาดหัวหิน เพียง 15 นาที',
     highlights: [
         '3  bedrooms / 3 bathrooms',
         '2 parking spaces (covered)',
         'Swimming pool 3x8  meters',
-        'Built-in kitchen',
-        'Built-in kitchen',
         'Built-in kitchen',
         'Usable area 248 SQM',
         'The villa is located at Huahin soi 70, only 15 minutes to beach and downtown',
@@ -93,13 +91,13 @@ export default function Example() {
         <div className="bg-white">
             <div className='text-center text-3xl font-bold'>
                 <p className='text-xl text-yellow-600'> Our Listing on Sale</p>
-                <h1>Currently Listing on the Market</h1>
+                <h1>Current listing on the Market</h1>
                 <div></div>
             </div>
             <div className="pt-6">
                 <nav aria-label="Breadcrumb">
                     <ol role="list"
-                        className="max-w-2xl mx-auto px-4 flex items-center space-x-2 sm:px-6 lg:max-w-7xl lg:px-8">
+                        className="max-w-2xl mx-auto px-4 flex items-center space-x-2 sm:px-6 lg:max-w-7xl lg:px-8 text-center mr-auto">
                         {product.breadcrumbs.map((breadcrumb) => (
                             <li key={breadcrumb.id}>
                                 <div className="flex items-center">
@@ -296,22 +294,22 @@ export default function Example() {
                                 {/*          ))}*/}
                                 {/*      </div>*/}
                                 {/*  </RadioGroup>*/}
-                                <p >
-                                    📠 Tel 063 869 7817 <br/>
-                                   📱 063 869 7817 <br/>
-                                    💻 Email propertyhuahin711@gmil.com
+                                <p>
+                                    📞 Tel: 063 869 7817 <br/>
+                                    📱 Line: 063 869 7817 <br/>
+                                    📧 Email: propertyhuahin711@gmail.com
                                 </p>
                             </div>
 
                             <Link to='/contact'>
-                            <button
-                                type="submit"
-                                className="mt-10 w-full bg-indigo-600 border
+                                <button
+                                    type="submit"
+                                    className="mt-10 w-full bg-indigo-600 border
                                 border-transparent rounded-md py-3 px-8 flex items-center
                                 justify-center text-base font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
-                            >
-                                Contact
-                            </button>
+                                >
+                                    Contact
+                                </button>
                             </Link>
                         </form>
                     </div>
@@ -342,11 +340,11 @@ export default function Example() {
                         </div>
 
                         {/*<div className="mt-10">*/}
-                            {/*<h2 className="text-sm font-medium text-gray-900">Details</h2>*/}
+                        {/*<h2 className="text-sm font-medium text-gray-900">Details</h2>*/}
 
-                            {/*<div className="mt-4 space-y-6">*/}
-                            {/*    <p className="text-sm text-gray-600">{product.details}</p>*/}
-                            {/*</div>*/}
+                        {/*<div className="mt-4 space-y-6">*/}
+                        {/*    <p className="text-sm text-gray-600">{product.details}</p>*/}
+                        {/*</div>*/}
                         {/*</div>*/}
                     </div>
                 </div>

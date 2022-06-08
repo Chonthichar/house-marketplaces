@@ -11,7 +11,7 @@ const product = {
     price: 'For sale 5,000,000 Bath',
     // href: '#',
     breadcrumbs: [
-        {id: 1, name: '🔥Villa For Sale 5 MB🔥'},
+        {id: 1, name: '🔥Pool Villa For Sale 5 MB🔥'},
         // { id: 2, name: 'Clothing', href: '#' },
     ],
     images: [
@@ -48,7 +48,8 @@ const product = {
         // { name: '3XL', inStock: true },
     ],
     description:
-     'ขายบ้านเดี่ยวพร้อมสระส่วนตัว หัวหิน ชะอำ ไปทะเล 5 กม. / 10 นาที (ติดถนนสาธารณะ) ที่ตั้งอยู่ในซอยสามพระยา ติดสนามกอล์ฟปาล์มฮิลล์ ใกล้ปั๊มน้ำมัน ปตท, ร้าน7-11, ร้านอาหาร, และสถานท่องยอดนิยมของชะอำ และหัวหิน ',
+        'ขายบ้านเดี่ยวพร้อมสระส่วนตัว หัวหิน ชะอำ ไปทะเล 5 กม. / 10 นาที (ติดถนนสาธารณะ) ที่ตั้งอยู่ในซอยสามพระยา ติดสนามกอล์ฟปาล์มฮิลล์ ใกล้ปั๊มน้ำมัน ปตท' +
+        ' ร้าน7-11 ร้านอาหาร และสถานท่องยอดนิยมของชะอำ และหัวหิน ',
     highlights: [
         'เนื้อที่ดิน 136 ตรว',
         '3 ห้องนอน',
@@ -60,7 +61,7 @@ const product = {
         'ลานซักล้าง',
         'ที่จอดรถ',
         'Beautiful location surrounded by mountain views',
-        'Convenient  location,7 Eleven, Family Mart, Lotus, CJ and many popular coffee shops, Delis and bakery.'
+        'Convenient  location close to 7 Eleven, Family Mart, Lotus, CJ and many popular coffee shops, Delis and bakery.'
 
     ],
     details: ''
@@ -278,19 +279,19 @@ export default function Example() {
                                 {/*          ))}*/}
                                 {/*      </div>*/}
                                 {/*  </RadioGroup>*/}
-                                <p >
-                                    📠 Tel 063 869 7817 <br/>
-                                   📱 063 869 7817 <br/>
-                                    💻 Email propertyhuahin711@gmil.com
+                                <p>
+                                    📞 Tel: 063 869 7817 <br/>
+                                    📱 Line: 063 869 7817 <br/>
+                                    📧 Email: propertyhuahin711@gmail.com
                                 </p>
                             </div>
                             <Link to='/contact'>
-                            <button
-                                type="submit"
-                                className="mt-10 w-full bg-indigo-600 border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
-                            >
-                                Contact
-                            </button>
+                                <button
+                                    type="submit"
+                                    className="mt-10 w-full bg-indigo-600 border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+                                >
+                                    Contact
+                                </button>
                             </Link>
                         </form>
                     </div>
@@ -321,11 +322,11 @@ export default function Example() {
                         </div>
 
                         {/*<div className="mt-10">*/}
-                            {/*<h2 className="text-sm font-medium text-gray-900">Details</h2>*/}
+                        {/*<h2 className="text-sm font-medium text-gray-900">Details</h2>*/}
 
-                            {/*<div className="mt-4 space-y-6">*/}
-                            {/*    <p className="text-sm text-gray-600">{product.details}</p>*/}
-                            {/*</div>*/}
+                        {/*<div className="mt-4 space-y-6">*/}
+                        {/*    <p className="text-sm text-gray-600">{product.details}</p>*/}
+                        {/*</div>*/}
                         {/*</div>*/}
                     </div>
                 </div>
