@@ -8,7 +8,7 @@ import {Link} from "react-router-dom";
 
 const product = {
     // name: 'Pool Villa For Sale',
-    price: 'For sale 4,300,000 Bath',
+    price: 'For sale 4,300,000 Baht',
     // href: '#',
     breadcrumbs: [
         {id: 1, name: '🔥Villa For Sale 4.3 MB. (Fully Furnished)🔥'},
