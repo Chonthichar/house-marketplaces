@@ -11,7 +11,7 @@ function Contact() {
                 <input type="text" name='name' id="defaultContactFormName" className="form-control mb-4"
                        placeholder="Name"/>
 
-                    <input type="hidden" name="_next" value="https://house-marketplaces.vercel.app/thank" />
+                    <input type="hidden" name="_next" value="https://www.huahindreamhome.com/thank" />
 
                 <input type="email" name='email' id="defaultContactFormEmail" className="form-control mb-4"
                        placeholder="E-mail"/>
