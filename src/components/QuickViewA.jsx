@@ -11,7 +11,7 @@ const product = {
     price: 'For sale 7,500,000 Baht',
     // href: '#',
     breadcrumbs: [
-        {id: 1, name: '🔥Luxury villa Scandinavian Style 7.5 MB 🔥'},
+        {id: 1, name: '🔥LUXURY VILLA FOR SALE ONLY 5MINUTES TO HUAHIN AIRPORT 🔥'},
         // { id: 2, name: 'Clothing', href: '#' },
     ],
     images: [

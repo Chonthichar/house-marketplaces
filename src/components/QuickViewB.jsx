@@ -11,7 +11,7 @@ const product = {
     price: 'For sale 5,900,000 Baht',
     // href: '#',
     breadcrumbs: [
-        {id: 1, name: '🔥Villa For Sale Tippawan 8, 5.9 MB.🔥'},
+        {id: 1, name: '🔥VILLA FOR SALE READY TO MOVE IN HUAHIN SOI 10 LOCATED AT HUAHIN CENTER🔥'},
         // { id: 2, name: 'Clothing', href: '#' },
     ],
     images: [

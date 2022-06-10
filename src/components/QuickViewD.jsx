@@ -11,7 +11,7 @@ const product = {
     price: 'For sale 2,300,000 Baht',
     // href: '#',
     breadcrumbs: [
-        {id: 1, name: '🔥House For Sale 2.3 MB. (Fully Furnished)🔥'},
+        {id: 1, name: '🔥HOUSE FOR SALE CHA-AM ONLY 5 MINUTES TO BEACH🔥'},
         // { id: 2, name: 'Clothing', href: '#' },
     ],
     images: [

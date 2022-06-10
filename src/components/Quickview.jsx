@@ -11,7 +11,7 @@ const product = {
     price: 'For sale 4,300,000 Baht',
     // href: '#',
     breadcrumbs: [
-        {id: 1, name: '🔥Villa For Sale 4.3 MB. (Fully Furnished)🔥'},
+        {id: 1, name: '🔥VILLA fOR SALE HUAHIN SOI 70 SURROUNDED BY MOUNTAIN VIEWS🔥'},
         // { id: 2, name: 'Clothing', href: '#' },
     ],
     images: [

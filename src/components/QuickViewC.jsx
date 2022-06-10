@@ -11,7 +11,7 @@ const product = {
     price: 'For sale 5,000,000 Baht',
     // href: '#',
     breadcrumbs: [
-        {id: 1, name: '🔥Pool Villa For Sale 5 MB🔥'},
+        {id: 1, name: '🔥PRIVATE HOUSE FOR SALE CLOSE TO GOLF COURSE ONLY 10 MINUTES TO HUA HIN AIRPORT🔥'},
         // { id: 2, name: 'Clothing', href: '#' },
     ],
     images: [

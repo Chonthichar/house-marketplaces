@@ -11,7 +11,7 @@ const product = {
     price: 'For sale 14,800,000 Baht',
     // href: '#',
     breadcrumbs: [
-        {id: 1, name: '🔥Brand new Luxury Villa For Sale 14.8 MB🔥'},
+        {id: 1, name: '🔥LUXURY VILLA IN PALM HILLS GOLF COURSE🔥'},
         // { id: 2, name: 'Clothing', href: '#' },
     ],
     images: [

@@ -11,7 +11,7 @@ const product = {
     price: 'For sale 5,200,000 Baht',
     // href: '#',
     breadcrumbs: [
-        {id: 1, name: '🔥Luxury villa Scandinavian Style (Eden) 5.2 MB🔥'},
+        {id: 1, name: '🔥VILLA FULLY FURNISHED SCANDINAVIAN STYLE🔥'},
         // { id: 2, name: 'Clothing', href: '#' },
     ],
     images: [
