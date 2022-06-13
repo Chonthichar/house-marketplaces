@@ -22,20 +22,20 @@ import QuickViewE from "../components/QuickViewE"
 
 const slideImages = [
       {
-        url: 'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286306296_5466311770099669_4302134959182240249_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=p64OwydWRMUAX8Arcmc&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT_DdL6rg0e8aaVzKakc-Kd-A7P6JpMGVHa0sADhamCHIg&oe=62A33ABB',
+        url: 'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286306296_5466311770099669_4302134959182240249_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=Vi6XDQdKP_oAX9zQw8p&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT9ibw-TT70-CQUlj3NF_yAOvE4kEAbIESQRzPwZIMM83A&oe=62AB23BB',
         caption:  <h1 className=''>HuaHin DreamHome PoolVilla
             <br/> +66 (0) 63-869-7817
             </h1>
     },
     {
-        url: 'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286313110_5466311866766326_3813590309502438832_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=ML1y6Ns1x5IAX80K67G&tn=IcFkUDcwWIuuHVHs&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT91MCAZOh-FnT-nhYbS_X4T7hiXDU1PCNTh1SwjNrVohw&oe=62A320C6',
+        url: 'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286313110_5466311866766326_3813590309502438832_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=LKuWwllx_H0AX-ODSXL&tn=IcFkUDcwWIuuHVHs&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT8hAXoeenGb6SW9WOmElcpgDotlPhFeOcg34dMhUfJTdw&oe=62AB09C6',
         caption:
         <p className="">Sell & Rent
         <br/>Land - House - Condo</p>
 
     },
     {
-        url: 'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286295249_5466311760099670_8435803177546229097_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=AkuI9s01-2gAX_uceC8&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT9nfjys1OkpKzneaPUpsbnNkTKWbTSt34W_wp1FDhgrJQ&oe=62A4B069',
+        url: 'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286302279_5466312050099641_626295631910343258_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=jizUkWjTUVIAX9-IZP-&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT9RW70e4KYX3fhakS246Xh9_vHgSfcCk9KPwLNUuW7msg&oe=62ACB091',
         caption:<h1 className=''>HuaHin DreamHome PoolVilla
             <br/> +66 (0) 63-869-7817
             </h1>
