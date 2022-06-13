@@ -22,20 +22,20 @@ import QuickViewE from "../components/QuickViewE"
 
 const slideImages = [
       {
-        url: 'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286306296_5466311770099669_4302134959182240249_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=Vi6XDQdKP_oAX9zQw8p&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT9ibw-TT70-CQUlj3NF_yAOvE4kEAbIESQRzPwZIMM83A&oe=62AB23BB',
+        url: 'https://i.ibb.co/2qH0YWM/cover2.jpg',
         caption:  <h1 className=''>HuaHin DreamHome PoolVilla
             <br/> +66 (0) 63-869-7817
             </h1>
     },
     {
-        url: 'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286313110_5466311866766326_3813590309502438832_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=LKuWwllx_H0AX-ODSXL&tn=IcFkUDcwWIuuHVHs&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT8hAXoeenGb6SW9WOmElcpgDotlPhFeOcg34dMhUfJTdw&oe=62AB09C6',
+        url: 'https://i.ibb.co/m9bFGpq/cover6.jpg',
         caption:
         <p className="">Sell & Rent
         <br/>Land - House - Condo</p>
 
     },
     {
-        url: 'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286302279_5466312050099641_626295631910343258_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=jizUkWjTUVIAX9-IZP-&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT9RW70e4KYX3fhakS246Xh9_vHgSfcCk9KPwLNUuW7msg&oe=62ACB091',
+        url: 'https://i.ibb.co/RcHjqy7/cover0.jpg',
         caption:<h1 className=''>HuaHin DreamHome PoolVilla
             <br/> +66 (0) 63-869-7817
             </h1>

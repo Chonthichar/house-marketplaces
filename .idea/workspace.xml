@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="80dd47a7-f648-4cfd-9f0b-5c25e7ed94cc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/QuickViewA.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/QuickViewA.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/QuickViewB.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/QuickViewB.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/QuickViewC.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/QuickViewC.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/QuickViewD.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/QuickViewD.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/QuickViews.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/QuickViews.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Quickview.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Quickview.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Explore.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Explore.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +86,7 @@
       <workItem from="1654769478479" duration="3116000" />
       <workItem from="1654778481047" duration="3274000" />
       <workItem from="1654838818217" duration="1648000" />
-      <workItem from="1655096385096" duration="4844000" />
+      <workItem from="1655096385096" duration="5623000" />
     </task>
     <servers />
   </component>
