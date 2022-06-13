@@ -16,8 +16,8 @@ const product = {
     ],
     images: [
         {
-            src: 'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286423845_5472155622848617_781927089993358858_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=nGr01_sCnHEAX83HH5E&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT9ggKMo2XAd3Gu-xteONFwZ18HLD9IdGISdx-GFn8ufYQ&oe=62A3DB00',
-            alt: 'Two each of gray, white, and black shirts laying flat.',
+            src: 'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286376820_5472155599515286_9037089816464664814_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=l-3tMFaX3kEAX_WxSsn&tn=IcFkUDcwWIuuHVHs&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT-Bgwj2Tc3ijAJsiegaGLc8tNsuBiBibVLuQOgSSVSwYQ&oe=62ABBCFE',
+            alt: 'gone.',
         },
         {
             src: 'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286849391_5472155606181952_3282345890097939744_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=yDmEMVf1LBEAX_fqUc-&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT_moPuKAec3cHYYsH1rWYVHmOkQmGFrxmYQkDhBY2UfJg&oe=62A343DE',
