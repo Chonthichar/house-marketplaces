@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80dd47a7-f648-4cfd-9f0b-5c25e7ed94cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/QuickViewC.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/QuickViewC.jsx" afterDir="false" />
-    </list>
+    <list default="true" id="80dd47a7-f648-4cfd-9f0b-5c25e7ed94cc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +84,7 @@
       <workItem from="1654769478479" duration="3116000" />
       <workItem from="1654778481047" duration="3274000" />
       <workItem from="1654838818217" duration="1648000" />
-      <workItem from="1655096385096" duration="2815000" />
+      <workItem from="1655096385096" duration="3144000" />
     </task>
     <servers />
   </component>
