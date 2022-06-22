@@ -16,19 +16,19 @@ const product = {
     ],
     images: [
         {
-            src: 'https://i.ibb.co/NCtmk44/song-4.jpg',
+            src: 'https://i.ibb.co/JtcxRMh/single-4.jpg',
             alt: 'gone.',
         },
         {
-            src: 'https://i.ibb.co/wr8Kzvr/song-3.jpg',
+            src: 'https://i.ibb.co/WkBmhd3/single-3.jpg',
             alt: 'Model wearing plain gray basic tee.',
         },
         {
-            src: 'https://i.ibb.co/n0vS1VQ/song-2.jpg',
+            src: 'https://i.ibb.co/fDK2NNv/single-2.jpg',
             alt: 'Model wearing plain white basic tee.',
         },
         {
-            src: 'https://i.ibb.co/HHwnSPf/song-1.jpg',
+            src: 'https://i.ibb.co/8XfjQSR/single-1.jpg',
             alt: 'Model wearing plain black basic tee.',
         },
     ],
