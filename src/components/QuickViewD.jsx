@@ -16,7 +16,7 @@ const product = {
     ],
     images: [
         {
-            src: 'https://i.ibb.co/HHwnSPf/song-1.jpg',
+            src: ' https://i.ibb.co/NCtmk44/song-4.jpg',
             alt: 'Two each of gray, white, and black shirts laying flat.',
         },
         {
@@ -28,7 +28,7 @@ const product = {
             alt: 'Model wearing plain white basic tee.',
         },
         {
-            src: '  https://i.ibb.co/NCtmk44/song-4.jpg',
+            src: ' https://i.ibb.co/HHwnSPf/song-1.jpg',
             alt: 'Model wearing plain black basic tee.',
         },
     ],
