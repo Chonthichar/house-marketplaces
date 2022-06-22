@@ -16,19 +16,19 @@ const product = {
     ],
     images: [
         {
-            src: 'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286418398_5471979236199589_8720930696388722397_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=IFxWLhT7HzsAX-dtRoN&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT9QwpLNRZ5om6A7jbT12Skg4TGXNQIvPALW-zyhjPLraQ&oe=62AC6142',
+            src: 'https://i.ibb.co/rkhkLb0/pool-5.jpg',
             alt: 'Two each of gray, white, and black shirts laying flat.',
         },
         {
-            src: 'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286693093_5471979392866240_6815337096908013286_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=UHsiqoj9TH8AX-iotGu&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT-MZeK968OfqwlVd5KWOtZxFcpHLXpJLRSAsFuCOZZiRw&oe=62ABE293',
+            src: 'https://i.ibb.co/jyfgC4Z/pool-2.jpg',
             alt: 'Model wearing plain gray basic tee.',
         },
         {
-            src: 'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286373807_5471979436199569_5530932443641555806_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=ZaCuh5HqDOAAX8QG7Z7&tn=IcFkUDcwWIuuHVHs&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT-M2ybAxPvn3--UHo6bkSQYb-GMvZrCi6AWQ3s12n2dSw&oe=62AB1AE0',
+            src: 'https://i.ibb.co/Wndf1tV/pool-3.jpg',
             alt: 'Model wearing plain white basic tee.',
         },
         {
-            src: 'https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/286416411_5471979276199585_6908560478628948125_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=tqHk9lcyuRQAX-NKC5T&_nc_ht=scontent.fsvg1-1.fna&oh=00_AT-k2CinYAtFUbEbvpwMnD4fF-1MaZqOCplR6az3GTgsEw&oe=62AADF89',
+            src: 'https://i.ibb.co/sjVQYcY/pool-1.jpg',
             alt: 'Model wearing plain black basic tee.',
         },
     ],
